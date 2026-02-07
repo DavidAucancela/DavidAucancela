@@ -13,8 +13,7 @@
 ---
 
 ```yaml
-Ingeniero de Software recién graduado con enfoque en construcción de sistemas,
-infraestructura, mantenimiento y seguridad informática.
+Ingeniero de Software recién graduado con enfoque en construcción de sistemas, infraestructura, mantenimiento y seguridad informática.
 
 He desarrollado proyectos prácticos que incluyen:
   - Sistemas escalables, seguros y eficientes con distintas bases de datos y arquitecturas
