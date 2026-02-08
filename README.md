@@ -110,25 +110,12 @@ He desarrollado proyectos prácticos que incluyen:
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidaucancela&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="170" />
-
-</div>
 
 <br/>
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=davidaucancela&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="95%" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=davidaucancela&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" width="90%" />
 
 </div>
 
