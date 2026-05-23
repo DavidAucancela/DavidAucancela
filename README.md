@@ -12,10 +12,9 @@
 
 ---
 
-Software Engineer graduated from ESPOCH, Ecuador. I build production-ready systems — from scalable REST APIs and AI-powered automation workflows to cloud-deployed full-stack platforms. Currently working as a freelance consultant, helping businesses in education, finance, and professional services digitize and automate their operations.
+Software Engineer graduated from ESPOCH, Ecuador 🇪🇨. I build production-ready systems from scalable REST APIs and AI-powered automation workflows to cloud-deployed full-stack platforms. Freelance consultant focused on development, AI integration, and security helping businesses digitize and automate their operations.
 
 ---
-
 ### ⚙️ Tech stack
 
 <table>
@@ -27,7 +26,7 @@ Software Engineer graduated from ESPOCH, Ecuador. I build production-ready syste
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 </td>
 </tr>
@@ -40,7 +39,6 @@ Software Engineer graduated from ESPOCH, Ecuador. I build production-ready syste
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 </td>
 </tr>
@@ -62,6 +60,7 @@ Software Engineer graduated from ESPOCH, Ecuador. I build production-ready syste
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
@@ -77,7 +76,6 @@ Software Engineer graduated from ESPOCH, Ecuador. I build production-ready syste
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 </td>
@@ -102,6 +100,7 @@ Software Engineer graduated from ESPOCH, Ecuador. I build production-ready syste
 ![DevSecOps](https://img.shields.io/badge/DevSecOps-4A154B?style=flat-square&logo=shieldsdotio&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
+![HackTheBox](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
 
 </td>
 </tr>
@@ -111,14 +110,17 @@ Software Engineer graduated from ESPOCH, Ecuador. I build production-ready syste
 
 ### 🚀 Featured projects
 
-| Project | Tools |
-|--------|-------|
-| **[LLM Observatory](https://github.com/DavidAucancela/LLM-observatory-)** | React · Node.js · PostgreSQL · Claude API · OpenAI |
-| **Mare Vitae International** | NestJS · Next.js · Supabase · BullMQ · Whisper · Prisma |
-| **AnaOS** | ASP.NET Core 9 · PostgreSQL · Docker · Kushki |
-| **UBApp** | Django · Angular · PostgreSQL · pgvector · Docker |
-| **WhatsApp AI agent** | n8n · OpenAI · Supabase · Kommo CRM · Telegram |
+| Project | Stack | Description |
+|--------|-------|-------------|
+| **[LLM Observatory](https://github.com/DavidAucancela/LLM-observatory-)** | React · Node.js · PostgreSQL · Claude API · OpenAI | Dashboard for monitoring and tracking AI API consumption and costs |
+| **[ArtEcuador](https://github.com/DavidAucancela/ArtEcuador)** | HTML · CSS · JavaScript | Artisan e-commerce platform showcasing Ecuadorian handmade products |
+| **[Ideancestral](https://github.com/DavidAucancela/Ideancestral)** | HTML · CSS · JavaScript | Web catalog for a local artisan shop at Mercado La Mariscal, Quito |
+| **[UBApp](https://github.com/DavidAucancela/UBApp)** | Django · Angular · pgvector · Docker | Semantic search system for shipment registration — thesis project (ISO 25010) |
+| **Mare Vitae International** | NestJS · Next.js · Supabase · Whisper · Prisma | Medical LMS with AI transcription, queues & payment processing |
+| **AnaOS** | ASP.NET Core 9 · PostgreSQL · Docker | Cooperative financial platform with Kushki payment integration |
+| **WhatsApp AI Agent** | n8n · OpenAI · Supabase · Kommo CRM | Automated lead capture & qualification for 3 educational clients |
 
+---
 ---
 
 ### 📊 GitHub stats
