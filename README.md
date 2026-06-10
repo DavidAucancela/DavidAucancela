@@ -1,17 +1,19 @@
 <div align="center">
 
-# David Aucancela
+# David Aucancela 🇪🇨
 
-**`Software Engineer`** · Backend · Cloud · AI automation
+**`Software Engineer`** · AI Systems · Backend · Security
 
 <a href="https://linkedin.com/in/jonathan-david-aucancela"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/jonathan__david"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://davidaucancela-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> 
 <a href="https://discord.com/users/TU_ID_NUMERICO"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="mailto:jonathan_jd@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 ---
 
-Software Engineer graduated from ESPOCH, Ecuador 🇪🇨. I build production-ready systems from scalable REST APIs and AI-powered automation workflows to cloud-deployed full-stack platforms. Freelance consultant focused on development, AI integration, and security helping businesses digitize and automate their operations.
+Software Engineer (ESPOCH) currently working as a Developer at Universidad Tecnológica Equinoccial — .NET, Oracle PL/SQL and Banner ERP for higher-education systems. On the side, I build and ship AI-powered SaaS products and automation systems for real clients: LLM observability, WhatsApp AI agents, and full-stack platforms.
 
 ---
 ### ⚙️ Tech stack
@@ -85,10 +87,10 @@ Software Engineer graduated from ESPOCH, Ecuador 🇪🇨. I build production-re
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 </td>
 </tr>
@@ -109,17 +111,18 @@ Software Engineer graduated from ESPOCH, Ecuador 🇪🇨. I build production-re
 
 ### 🚀 Featured projects
 
-| Project | Stack | Description |
-|--------|-------|-------------|
-| **[LLM Observatory](https://github.com/DavidAucancela/LLM-observatory-)** | React · Node.js · PostgreSQL · Claude API · OpenAI | Dashboard for monitoring and tracking AI API consumption and costs |
-| **[ArtEcuador](https://github.com/DavidAucancela/ArtEcuador)** | HTML · CSS · JavaScript | Artisan e-commerce platform showcasing Ecuadorian handmade products |
-| **[Ideancestral](https://github.com/DavidAucancela/Ideancestral)** | HTML · CSS · JavaScript | Web catalog for a local artisan shop at Mercado La Mariscal, Quito |
-| **[UBApp](https://github.com/DavidAucancela/UBApp)** | Django · Angular · pgvector · Docker | Semantic search system for shipment registration — thesis project (ISO 25010) |
-| **Mare Vitae International** | NestJS · Next.js · Supabase · Whisper · Prisma | Medical LMS with AI transcription, queues & payment processing |
-| **AnaOS** | ASP.NET Core 9 · PostgreSQL · Docker | Cooperative financial platform with Kushki payment integration |
-| **WhatsApp AI Agent** | n8n · OpenAI · Supabase · Kommo CRM | Automated lead capture & qualification for 3 educational clients |
+| Project                                                                     | Stack                                              | Description                                                                                   |
+| --------------------------------------------------------------------------- | -------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| **[LLM Observatory](https://github.com/DavidAucancela/LLM-observatory-)** ⭐ | React · Node.js · PostgreSQL · Claude API · OpenAI | Dashboard for monitoring and tracking AI API consumption and costs                            |
+| **[UBApp](https://github.com/DavidAucancela/UBApp)**                        | Django · Angular · pgvector                        | Semantic search for shipment records — thesis, evaluated under ISO/IEC 25010                  |
+| **[Portfolio Trimodal](https://github.com/DavidAucancela/Portfolio)**       | Next.js · Tailwind · JotAI mascot                  | Personal site with three modes — `.dev` / `.ia` / `.sec` — featuring an animated AI assistant |
+| **[AnaOS](https://github.com/DavidAucancela/AnaOS)**                        | ASP.NET Core 9 · PostgreSQL · Kushki               | Cooperative financial management platform — Clean Architecture                                |
+| **[ArtEcuador](https://github.com/DavidAucancela/ArtEcuador)**              | HTML · CSS · JavaScript                            | Artisan e-commerce platform showcasing Ecuadorian handmade products                           |
+| **[Ideancestral](https://github.com/DavidAucancela/Ideancestral)**          | HTML · CSS · JavaScript                            | Web catalog for a local artisan shop at Mercado La Mariscal, Quito                            |
+| **Mare Vitae International**                                                | NestJS · Next.js · Supabase · Whisper              | Medical LMS with AI transcription, queues & payments                                          |
+| **WhatsApp AI Agents**                                                      | n8n · OpenAI · Supabase · Kommo CRM                | Automated lead capture & qualification serving 3 education businesses in production           |
 
----
+
 ---
 
 ### 📊 GitHub stats
