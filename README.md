@@ -119,7 +119,7 @@ Software Engineer (ESPOCH) currently working as a Developer at Universidad Tecno
 | **[AnaOS](https://github.com/DavidAucancela/AnaOS)**                        | ASP.NET Core 9 · PostgreSQL · Kushki               | Cooperative financial management platform — Clean Architecture                                |
 | **[ArtEcuador](https://github.com/DavidAucancela/ArtEcuador)**              | HTML · CSS · JavaScript                            | Artisan e-commerce platform showcasing Ecuadorian handmade products                           |
 | **[Ideancestral](https://github.com/DavidAucancela/Ideancestral)**          | HTML · CSS · JavaScript                            | Web catalog for a local artisan shop at Mercado La Mariscal, Quito                            |
-| **Mare Vitae International**                                                | NestJS · Next.js · Supabase · Whisper              | Medical LMS with AI transcription, queues & payments                                          |
+| **[Mare Vitae International](https://github.com/Andorasoft/Mare-Vitae-International)**                                                | NestJS · Next.js · Supabase · Whisper              | Medical LMS with AI transcription, queues & payments                                          |
 | **WhatsApp AI Agents**                                                      | n8n · OpenAI · Supabase · Kommo CRM                | Automated lead capture & qualification serving 3 education businesses in production           |
 
 
