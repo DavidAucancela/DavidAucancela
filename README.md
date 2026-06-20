@@ -113,15 +113,9 @@ Software Engineer (ESPOCH) currently working as a Developer at Universidad Tecno
 
 | Project                                                                     | Stack                                              | Description                                                                                   |
 | --------------------------------------------------------------------------- | -------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| **[LLM Observatory](https://github.com/DavidAucancela/LLM-observatory-)** ⭐ | React · Node.js · PostgreSQL · Claude API · OpenAI | Dashboard for monitoring and tracking AI API consumption and costs                            |
-| **[UBApp](https://github.com/DavidAucancela/UBApp)**                        | Django · Angular · pgvector                        | Semantic search for shipment records — thesis, evaluated under ISO/IEC 25010                  |
+| **[LLM Observatory](https://github.com/DavidAucancela/LLM-observatory-)**   | React · Node.js · PostgreSQL · Claude API · OpenAI | Dashboard for monitoring and tracking AI API consumption and costs                            |
 | **[Portfolio Trimodal](https://github.com/DavidAucancela/Portfolio)**       | Next.js · Tailwind · JotAI mascot                  | Personal site with three modes — `.dev` / `.ia` / `.sec` — featuring an animated AI assistant |
-| **[AnaOS](https://github.com/DavidAucancela/AnaOS)**                        | ASP.NET Core 9 · PostgreSQL · Kushki               | Cooperative financial management platform — Clean Architecture                                |
-| **[ArtEcuador](https://github.com/DavidAucancela/ArtEcuador)**              | HTML · CSS · JavaScript                            | Artisan e-commerce platform showcasing Ecuadorian handmade products                           |
-| **[Ideancestral](https://github.com/DavidAucancela/Ideancestral)**          | HTML · CSS · JavaScript                            | Web catalog for a local artisan shop at Mercado La Mariscal, Quito                            |
-| **[Mare Vitae International](https://github.com/Andorasoft/Mare-Vitae-International)**                                                | NestJS · Next.js · Supabase · Whisper              | Medical LMS with AI transcription, queues & payments                                          |
-| **WhatsApp AI Agents**                                                      | n8n · OpenAI · Supabase · Kommo CRM                | Automated lead capture & qualification serving 3 education businesses in production           |
-
+| **[Nunna](https://github.com/DavidAucancela/Nunna)**                        | Next.js 15 · NestJS · PostgreSQL · Supabase        | Digital catalog + immersive experience about Riobamba parades                              |
 
 ---
 
