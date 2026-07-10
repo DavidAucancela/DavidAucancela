@@ -19,7 +19,13 @@
 
 ---
 
-Software Engineer (ESPOCH) currently working as a Developer at Universidad Tecnológica Equinoccial — .NET, Oracle PL/SQL and Banner ERP for higher-education systems. On the side, I build and ship AI-powered SaaS products and automation systems for real clients: LLM observability, WhatsApp AI agents, and full-stack platforms.
+## 📍 Current Focus
+
+- Large Language Models
+- AI Infrastructure
+- Multi-Agent Systems
+- Backend Architecture
+- Security Engineering
 
 ---
 ### ⚙️ Tech stack
@@ -124,6 +130,13 @@ Software Engineer (ESPOCH) currently working as a Developer at Universidad Tecno
 | **[Nunna](https://github.com/DavidAucancela/Nunna)**                        | Next.js 15 · NestJS · PostgreSQL · Supabase        | Digital catalog + immersive experience about Riobamba parades                              |
 
 ---
+## 💡 Currently Building
+
+- 🤖 AI Observability Platform
+- 🧠 Multi-agent systems with MCP
+- 📱 WhatsApp AI Agents
+- ☁️ Cloud-native SaaS
+- 🔐 AI Security & DevSecOps
 
 ### 📊 GitHub stats
 
