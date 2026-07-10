@@ -130,13 +130,6 @@
 | **[Nunna](https://github.com/DavidAucancela/Nunna)**                        | Next.js 15 · NestJS · PostgreSQL · Supabase        | Digital catalog + immersive experience about Riobamba parades                              |
 
 ---
-## 💡 Currently Building
-
-- 🤖 AI Observability Platform
-- 🧠 Multi-agent systems with MCP
-- 📱 WhatsApp AI Agents
-- ☁️ Cloud-native SaaS
-- 🔐 AI Security & DevSecOps
 
 ### 📊 GitHub stats
 
