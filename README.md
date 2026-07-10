@@ -3,9 +3,7 @@
 # Dav 🇪🇨
 
 **`Software Engineer`** · AI Systems · Backend · Security
-<img src="https://profile-counter.glitch.me/davidaucancela/count.svg" alt="Visitors"/>
 
-<br>
 <a href="https://linkedin.com/in/jonathan-david-aucancela">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
