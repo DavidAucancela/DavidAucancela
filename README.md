@@ -19,7 +19,7 @@
 
 ---
 
-## 📍 Current Focus
+## Working ON!
 
 - Large Language Models
 - AI Infrastructure
@@ -28,7 +28,7 @@
 - Security Engineering
 
 ---
-### ⚙️ Tech stack
+### Some tools
 
 <table>
 <tr>
@@ -121,7 +121,7 @@
 
 ---
 
-### 🚀 Featured projects
+### Top Projecyts
 
 | Project                                                                     | Stack                                              | Description                                                                                   |
 | --------------------------------------------------------------------------- | -------------------------------------------------- | --------------------------------------------------------------------------------------------- |
@@ -130,8 +130,6 @@
 | **[Nunna](https://github.com/DavidAucancela/Nunna)**                        | Next.js 15 · NestJS · PostgreSQL · Supabase        | Digital catalog + immersive experience about Riobamba parades                              |
 
 ---
-
-### 📊 GitHub stats
 
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=davidaucancela&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=888888" height="180" />
@@ -146,20 +144,10 @@
 ---
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidaucancela&theme=github_dark" width="90%" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davidaucancela&theme=github_dark" height="160" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davidaucancela&theme=github_dark" height="160" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davidaucancela&theme=github_dark&utcOffset=-5" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidaucancela&theme=github_dark" width="100%" />
 </div>
 
 ---
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=davidaucancela&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
-</div>
 
 <picture>
   <source
@@ -175,3 +163,9 @@
     src="https://raw.githubusercontent.com/DavidAucancela/DavidAucancela/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+---
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=davidaucancela&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
+</div>
