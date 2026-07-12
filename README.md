@@ -17,7 +17,6 @@
 </a>
 </div>
 
----
 
 ## Working ON!
 
@@ -27,7 +26,6 @@
 - Backend Architecture
 - Security Engineering
 
----
 ### Some tools
 
 <table>
@@ -159,8 +157,6 @@
     src="https://raw.githubusercontent.com/DavidAucancela/DavidAucancela/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
----
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=davidaucancela&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
