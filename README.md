@@ -119,9 +119,9 @@
 </tr>
 </table>
 
----
 
-### Top Projecyts
+
+### Top Projects
 
 | Project                                                                     | Stack                                              | Description                                                                                   |
 | --------------------------------------------------------------------------- | -------------------------------------------------- | --------------------------------------------------------------------------------------------- |
@@ -129,25 +129,21 @@
 | **[Portfolio Trimodal](https://github.com/DavidAucancela/Portfolio)**       | Next.js · Tailwind · JotAI mascot                  | Personal site with three modes — `.dev` / `.ia` / `.sec` — featuring an animated AI assistant |
 | **[Nunna](https://github.com/DavidAucancela/Nunna)**                        | Next.js 15 · NestJS · PostgreSQL · Supabase        | Digital catalog + immersive experience about Riobamba parades                              |
 
----
-
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=davidaucancela&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=888888" height="180" />
 </div>
 
-<br/>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=davidaucancela&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="95%" />
 </div>
 
----
 
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidaucancela&theme=github_dark" width="100%" />
 </div>
 
----
+
 
 <picture>
   <source
