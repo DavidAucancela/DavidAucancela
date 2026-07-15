@@ -3,7 +3,6 @@
 # Dav 🇪🇨
 
 **`Software Engineer`** · AI Systems · Backend · Security
-
 <div align="center" style="margin: 50px 0; padding: 0 20px;">
   <div style="
     background: linear-gradient(135deg, #0d1b2a 0%, #1f3a5f 100%);
@@ -13,7 +12,6 @@
     max-width: 650px;
     margin: 0 auto;
     box-shadow: 0 8px 24px rgba(88, 166, 255, 0.15);
-    backdrop-filter: blur(10px);
   ">
     <div style="
       font-size: 24px;
