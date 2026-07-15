@@ -158,6 +158,37 @@
   />
 </picture>
 
+<div style="display: flex; align-items: center; justify-content: center; margin: 40px 0;">
+  <div style="
+    background: linear-gradient(135deg, #1f6feb 0%, #388bfd 100%);
+    border-left: 4px solid #58a6ff;
+    border-radius: 8px;
+    padding: 30px 40px;
+    max-width: 600px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', sans-serif;
+  ">
+    <div style="
+      font-size: 18px;
+      font-weight: 500;
+      color: #ffffff;
+      line-height: 1.6;
+      margin-bottom: 16px;
+      letter-spacing: 0.3px;
+    ">
+      "Do or do not, there is no try."
+    </div>
+    <div style="
+      font-size: 14px;
+      color: #e6edf3;
+      font-style: italic;
+      text-align: right;
+    ">
+      — Yoda
+    </div>
+  </div>
+</div>
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=davidaucancela&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
 </div>
