@@ -4,36 +4,46 @@
 
 **`Software Engineer`** · AI Systems · Backend · Security
 
-<div align="center" style="margin: 40px 0;">
-  <table style="border-collapse: collapse; width: 100%; max-width: 600px; margin: 0 auto;">
-    <tr>
-      <td style="
-        background: linear-gradient(135deg, #1f6feb 0%, #388bfd 100%);
-        border-left: 4px solid #58a6ff;
-        border-radius: 8px;
-        padding: 30px 40px;
-        text-align: center;
-      ">
-        <p style="
-          font-size: 18px;
-          font-weight: bold;
-          color: #ffffff;
-          margin: 0 0 16px 0;
-          line-height: 1.6;
-        ">
-          "Do or do not, there is no try."
-        </p>
-        <p style="
-          font-size: 14px;
-          color: #e6edf3;
-          font-style: italic;
-          margin: 0;
-        ">
-          — Yoda
-        </p>
-      </td>
-    </tr>
-  </table>
+<div align="center" style="margin: 50px 0; padding: 0 20px;">
+  <div style="
+    background: linear-gradient(135deg, #0d1b2a 0%, #1f3a5f 100%);
+    border: 2px solid #58a6ff;
+    border-radius: 12px;
+    padding: 40px 50px;
+    max-width: 650px;
+    margin: 0 auto;
+    box-shadow: 0 8px 24px rgba(88, 166, 255, 0.15);
+    backdrop-filter: blur(10px);
+  ">
+    <div style="
+      font-size: 24px;
+      font-weight: 600;
+      color: #58a6ff;
+      margin-bottom: 8px;
+      letter-spacing: 2px;
+    ">
+      ❝
+    </div>
+    <p style="
+      font-size: 20px;
+      font-weight: 500;
+      color: #ffffff;
+      margin: 0 0 24px 0;
+      line-height: 1.8;
+      letter-spacing: 0.4px;
+    ">
+      Do or do not, there is no try.
+    </p>
+    <p style="
+      font-size: 15px;
+      color: #79c0ff;
+      font-style: italic;
+      margin: 0;
+      letter-spacing: 1px;
+    ">
+      ✦ Yoda
+    </p>
+  </div>
 </div>
 
 <a href="https://linkedin.com/in/jonathan-david-aucancela">
