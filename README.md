@@ -4,6 +4,38 @@
 
 **`Software Engineer`** · AI Systems · Backend · Security
 
+<div align="center" style="margin: 40px 0;">
+  <table style="border-collapse: collapse; width: 100%; max-width: 600px; margin: 0 auto;">
+    <tr>
+      <td style="
+        background: linear-gradient(135deg, #1f6feb 0%, #388bfd 100%);
+        border-left: 4px solid #58a6ff;
+        border-radius: 8px;
+        padding: 30px 40px;
+        text-align: center;
+      ">
+        <p style="
+          font-size: 18px;
+          font-weight: bold;
+          color: #ffffff;
+          margin: 0 0 16px 0;
+          line-height: 1.6;
+        ">
+          "Do or do not, there is no try."
+        </p>
+        <p style="
+          font-size: 14px;
+          color: #e6edf3;
+          font-style: italic;
+          margin: 0;
+        ">
+          — Yoda
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <a href="https://linkedin.com/in/jonathan-david-aucancela">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
