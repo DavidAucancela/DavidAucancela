@@ -7,11 +7,12 @@
 <sub>❝ Do or do not, there is no try. ❞ — Yoda</sub>
 
 <br/>
-
+<img src="https://komarev.com/ghpvc/?username=davidaucancela&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile views"/>
+<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathan-david-aucancela)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://davidaucancela-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathan_jd@outlook.com)
-<img src="https://komarev.com/ghpvc/?username=davidaucancela&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile views"/>
+
 
 </div>
 
