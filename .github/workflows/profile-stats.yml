@@ -13,20 +13,23 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  # ── Tarjetas de perfil (reemplaza github-profile-summary-cards.vercel.app) ──
+  # ── Tarjetas de perfil ──
   summary-cards:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
 
-  # ── lowlighter/metrics (reemplaza streak-stats y activity-graph) ──
+  # ── lowlighter/metrics ──
   metrics:
     runs-on: ubuntu-latest
-    needs: summary-cards        # evita pushes simultáneos
+    needs: summary-cards
+    if: ${{ always() }}
     steps:
       # Racha actual, mejor racha y calendario del año
       - name: Isocalendar (streak)
