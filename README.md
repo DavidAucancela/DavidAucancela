@@ -15,14 +15,14 @@
 
 </div>
 
-## 🔭 Currently building
+## Currently building
 
 - 🧠 **[KOS](https://github.com/DavidAucancela/KOS)** — knowledge graph with long-term memory driven by AI agents
 - 🔍 **[CodeReviewX](https://github.com/DavidAucancela/CodeReviewX-)** — GitHub App that reviews PRs with static analysis + Claude
 - 📊 **[LLM Observatory](https://github.com/DavidAucancela/LLM-observatory-)** — monitoring AI API consumption and costs
 - 🛡️ Security engineering — CTF practice on TryHackMe & Hack The Box
 
-## 🚀 Top Projects
+## Projects
 
 | Project | Stack | Description |
 |---|---|---|
@@ -33,7 +33,7 @@
 | **[Portfolio Trimodal](https://github.com/DavidAucancela/Portfolio)** | Next.js · Tailwind · JotAI mascot | Personal site with three modes — `.dev` / `.ia` / `.sec` — featuring an animated AI assistant |
 | **[Nunna](https://github.com/DavidAucancela/Nunna)** | Next.js 15 · NestJS · PostgreSQL · Supabase | Digital catalog + immersive experience about Riobamba parades |
 
-## 🧰 Tools
+## Tools
 
 | | |
 |---|---|
@@ -45,9 +45,7 @@
 | **AI & Automation** | ![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
 | **Security** | ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white) ![DevSecOps](https://img.shields.io/badge/DevSecOps-4A154B?style=flat-square&logo=shieldsdotio&logoColor=white) ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white) ![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black) |
 
-## 📈 Stats
-
-<!-- Todo generado por .github/workflows: si un job falla, se muestra la imagen anterior (nunca una rota) -->
+## Stats
 
 <div align="center">
   <picture>
@@ -57,17 +55,23 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DavidAucancela/DavidAucancela/metrics/metrics.isocalendar.svg" width="49%" alt="Contribution streak"/>
-  <img src="https://raw.githubusercontent.com/DavidAucancela/DavidAucancela/metrics/metrics.languages.svg" width="49%" alt="Most used languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg"/>
+    <img src="./profile-summary-card-output/github/1-repos-per-language.svg" width="49%" alt="Repos per language"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
+    <img src="./profile-summary-card-output/github/2-most-commit-language.svg" width="49%" alt="Most commit language"/>
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DavidAucancela/DavidAucancela/metrics/metrics.achievements.svg" width="98%" alt="Achievements"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg"/>
+    <img src="./profile-summary-card-output/github/3-stats.svg" width="49%" alt="GitHub stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/4-productive-time.svg"/>
+    <img src="./profile-summary-card-output/github/4-productive-time.svg" width="49%" alt="Productive time"/>
+  </picture>
 </div>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidAucancela/DavidAucancela/output/github-contribution-grid-snake-dark.svg"/>
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/DavidAucancela/DavidAucancela/output/github-contribution-grid-snake.svg"/>
-</picture>
