@@ -48,7 +48,7 @@ I'm a software engineer who enjoys building things that hold up in the real worl
 | **AI & Automation** | ![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
 | **Security** | ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white) ![DevSecOps](https://img.shields.io/badge/DevSecOps-4A154B?style=flat-square&logo=shieldsdotio&logoColor=white) ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white) ![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black) |
 
-## Stats 2
+## Stats 
  
 <div align="center">
   <picture>
@@ -83,9 +83,9 @@ I'm a software engineer who enjoys building things that hold up in the real worl
 </picture>
 
 ## Let's work together
- 
+<div align="center"> 
 Open to remote AI/backend roles and freelance AI automation projects.
- 
+</div> 
 <div align="center">
 <br/>
 <sub>❝ Do or do not, there is no try. ❞ — Yoda</sub>
