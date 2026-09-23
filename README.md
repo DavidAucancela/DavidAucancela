@@ -19,13 +19,6 @@
  
 I'm a software engineer who enjoys building things that hold up in the real world, not just in demos. Most of my work lives where AI meets production: making language models reliable, measurable and safe enough to trust with real users. I split my time between shipping products for clients, looking at systems from the attacker's side, and building games when I want to tell a story instead of solving a ticket. I learn by building, and there's always something on the workbench.
 
-## What I do
- 
-| `.dev` | `.ia` | `.sec` | `.gam` |
-|---|---|---|---|
-| Backend & full-stack products built to last | LLM tooling, agents and AI that's measurable in production | Offensive practice and secure development | Games with atmosphere and a story to tell |
-| [Nunna](https://github.com/DavidAucancela/Nunna) · [Portfolio](https://github.com/DavidAucancela/Portfolio) | [KOS](https://github.com/DavidAucancela/KOS) · [whisperX](https://github.com/DavidAucancela/whisperX) · [LLM Observatory](https://github.com/DavidAucancela/llm-observatory) | [CodeReviewX](https://github.com/DavidAucancela/CodeReviewX-) | [Lumbre](https://github.com/Lager-GJ/main) · [ZeroDay](https://github.com/DavidAucancela/ZeroDay-FitnessGame) |
-
 ## Currently building
 
 - 🧠 **[KOS](https://github.com/DavidAucancela/KOS)** — knowledge graph with long-term memory driven by AI agents
