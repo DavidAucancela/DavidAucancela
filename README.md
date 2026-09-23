@@ -19,13 +19,6 @@
  
 I'm a software engineer who enjoys building things that hold up in the real world, not just in demos. Most of my work lives where AI meets production: making language models reliable, measurable and safe enough to trust with real users. I split my time between shipping products for clients, looking at systems from the attacker's side, and building games when I want to tell a story instead of solving a ticket. I learn by building, and there's always something on the workbench.
 
-## Currently building
-
-- 🧠 **[KOS](https://github.com/DavidAucancela/KOS)** — knowledge graph with long-term memory driven by AI agents
-- 🔍 **[CodeReviewX](https://github.com/DavidAucancela/CodeReviewX-)** — GitHub App that reviews PRs with static analysis + Claude
-- 📊 **[LLM Observatory](https://github.com/DavidAucancela/LLM-observatory-)** — monitoring AI API consumption and costs
-- 🛡️ Security engineering — CTF practice on TryHackMe & Hack The Box
-
 ## Projects
 
 | Project | Stack | Description |
@@ -37,7 +30,7 @@ I'm a software engineer who enjoys building things that hold up in the real worl
 | **[Portfolio Multimodal](https://github.com/DavidAucancela/Portfolio)** | Next.js · Tailwind · JotAI mascot | Personal site with fourth modes — `.dev` / `.ia` / `.sec` / `.gam` — featuring an animated AI assistant |
 | **[Nunna](https://github.com/DavidAucancela/Nunna)** | Next.js 15 · NestJS · PostgreSQL | Digital catalog + immersive experience about Riobamba parades |
 
-## 🛡️ Security journey
+## Security journey
  
 - **Hack The Box** — member of team **Creeper.exe**
 - **CTF competitions** — V-Sandbox CTF
