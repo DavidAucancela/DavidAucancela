@@ -27,12 +27,12 @@
 
 | Project | Stack | Description |
 |---|---|---|
-| **[LLM Observatory](https://github.com/DavidAucancela/LLM-observatory-)** | React · Node.js · PostgreSQL · Claude API · OpenAI | Dashboard for monitoring and tracking AI API consumption and costs |
+| **[LLM Observatory](https://github.com/DavidAucancela/LLM-observatory-)** | React · Node.js · PostgreSQL| Dashboard for monitoring and tracking AI API consumption and costs |
 | **[CodeReviewX](https://github.com/DavidAucancela/CodeReviewX-)** | Python · GitHub App · Claude API | Automated PR reviews: webhooks → static analysis → LLM review of logic bugs and security issues |
 | **[KOS](https://github.com/DavidAucancela/KOS)** | Python · Neo4j · Ollama | Knowledge graph that keeps long-term memory through agents |
-| **[whisperX](https://github.com/DavidAucancela/whisperX)** | Python · OpenAI Whisper | Centralized transcription & translation with validation, caching, logging and cost control |
-| **[Portfolio Trimodal](https://github.com/DavidAucancela/Portfolio)** | Next.js · Tailwind · JotAI mascot | Personal site with three modes — `.dev` / `.ia` / `.sec` — featuring an animated AI assistant |
-| **[Nunna](https://github.com/DavidAucancela/Nunna)** | Next.js 15 · NestJS · PostgreSQL · Supabase | Digital catalog + immersive experience about Riobamba parades |
+| **[whisperX](https://github.com/DavidAucancela/whisperX)** | Python · OpenAI Whisper · Audio | Centralized transcription & translation with validation, caching, logging and cost control |
+| **[Portfolio Multimodal](https://github.com/DavidAucancela/Portfolio)** | Next.js · Tailwind · JotAI mascot | Personal site with fourth modes — `.dev` / `.ia` / `.sec` / `.gam` — featuring an animated AI assistant |
+| **[Nunna](https://github.com/DavidAucancela/Nunna)** | Next.js 15 · NestJS · PostgreSQL | Digital catalog + immersive experience about Riobamba parades |
 
 ## Tools
 
