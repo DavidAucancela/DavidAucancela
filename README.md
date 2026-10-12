@@ -61,9 +61,7 @@ I'm a software engineer who enjoys building things that hold up in the real worl
     <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg"/>
     <img src="./profile-summary-card-output/github/1-repos-per-language.svg" width="49%" alt="Repos per language"/>
   </picture>
-</div>
-<div align="center">
-  <picture>
+   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/4-productive-time.svg"/>
     <img src="./profile-summary-card-output/github/4-productive-time.svg" width="49%" alt="Productive time"/>
   </picture>
